@@ -1,0 +1,7 @@
+/vendor
+.env
+/node_modules
+/public/storage
+/storage/*.key
+.DS_Store
+/build
